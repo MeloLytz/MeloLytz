@@ -4,9 +4,6 @@ I'm new to coding and just started a bootcamp to learn HTML, CSS and JavaScript 
 
 :pirate_flag: Looking forward to share my first treasures with you :mermaid:
 
-
-https://www.codewars.com/users/MeloLytz/badges/large
-
 <!--
 **MeloLytz/MeloLytz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
